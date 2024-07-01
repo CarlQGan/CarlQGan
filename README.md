@@ -1,11 +1,16 @@
 ## Carl Gan (Formally Qianxin Gan)
 
-Hiii there :3 I'm Carl, a car enthusiast who happens to know programming
+Hiii there :3 
 
-### Autonomous Vehicles | Hardware Design | Software Engineering | Algorithms | Machine Learning
+I'm Carl, a programmer (mostly) & hardware designer (slightly) who happens to be a car enthusiast (stubbornly). Sometimes a mechanic (samaritan) that breaks your car to fix your code.
+
+### Autonomous Vehicles | Software Engineering | Algorithms | Machine Learning | Hardware Design | Computer Vision
 
 #### 🎓 University of California, Berkeley - B.S. in Electrical Engineering and Computer Sciences
 #### 🎓 Cornell University - M.Eng. in Electrical and Computer Engineering
+
+
+
 
 <!--
 **CarlQGan/CarlQGan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
