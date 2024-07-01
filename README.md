@@ -1,8 +1,8 @@
 ## Carl Gan (Formally Qianxin Gan)
 
-### Hiii there :3 I'm Carl, a car enthusiast who happens to know programming
+Hiii there :3 I'm Carl, a car enthusiast who happens to know programming
 
-Autonomous Vehicles | Hardware Design | Software Engineering | Algorithms | Machine Learning
+### Autonomous Vehicles | Hardware Design | Software Engineering | Algorithms | Machine Learning
 
 #### 🎓 University of California, Berkeley - B.S. in Electrical Engineering and Computer Sciences
 #### 🎓 Cornell University - M.Eng. in Electrical and Computer Engineering
