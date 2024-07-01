@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hiii there :3 I'm Carl Gan (Formally Qianxin Gan)
+
+Autonomous Vehicles | Hardware Design | Software Engineering | Algorithms | Machine Learning
+
+### University of California, Berkeley - B.S. in Electrical Engineering and Computer Sciences
+### Cornell University - M.Eng. in Electrical and Computer Engineering
 
 <!--
 **CarlQGan/CarlQGan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
