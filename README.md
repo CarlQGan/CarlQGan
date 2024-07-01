@@ -2,13 +2,36 @@
 
 Hiii there :3 
 
-I'm Carl, a programmer (mostly) & hardware designer (slightly) who happens to be a car enthusiast (stubbornly). Sometimes a mechanic (samaritan) that breaks your car to fix your code.
+I'm Carl, a programmer (mostly) & hardware designer (slightly) who happens to be a car enthusiast (stubbornly). Sometimes a mechanic (samaritan) that breaks your car to fix my code.
+
+Currently, I am working as a **Quantitative Research Intern** with a passion for technology and a diverse skill set in **Machine Learning**, **Data Analysis**, and **Software Development**. I hold a comprehensive background in **Computer Science**, **Electrical and Computer Engineering**, **Information Science**, **Mechanical Engineering**, and **Business** from my studies.
+
 
 ### Autonomous Vehicles | Software Engineering | Algorithms | Machine Learning | Hardware Design | Computer Vision
 
+## 📚 Education
 #### 🎓 University of California, Berkeley - B.S. in Electrical Engineering and Computer Sciences
 #### 🎓 Cornell University - M.Eng. in Electrical and Computer Engineering
 
+
+## 🔧 Skills and Technologies
+- **Programming Languages**: Python, C/C++, Java, SQL, JavaScript
+- **Machine Learning**: PyTorch, TensorFlow, scikit-learn
+- **Data Analysis**: Pandas, NumPy, SciPy
+- **Hardware Design**: Raspberry Pi, Arduino, Pipeline Profiling
+- **Interactive Device Design**: Sensors, Actuators, IoT, Vehicle Engineering
+- **Computer Vision**: OpenCV, Keras
+- **Human-Computer Interaction**: UX/UI Design, Prototyping, Figma
+- **Urban Technology Impact**: Smart Cities, Sustainable Tech, Transportation Engineering
+- **Tools**: Git, Docker, Kubernetes
+
+## 🏆 Projects
+- **ROAR_Py**: A novel control suite for Reinforcement Learning supporting Gymnasium API.
+- **Kubernetes Cluster for Real-time Llama 3 (8B) Inference**: Deployed on a stack of 4 Raspberry Pi 5 devices.
+- **Low Bit Quantization in Machine Learning**: Research paper focusing on extremely low bit-widths in ML architectures.
+- **Autonomous Indycars**: Racing Indy Cars on the track without human operators.
+
+Feel free to explore my repositories and connect with me!
 
 
 
