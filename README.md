@@ -1,4 +1,6 @@
-## Hiii there :3 I'm Carl Gan (Formally Qianxin Gan)
+## Carl Gan (Formally Qianxin Gan)
+
+### Hiii there :3 I'm Carl, a car enthusiast who happens to know programming
 
 Autonomous Vehicles | Hardware Design | Software Engineering | Algorithms | Machine Learning
 
