@@ -18,12 +18,13 @@ Currently, I am working as a **Quantitative Research Intern** with a passion for
 - **Programming Languages**: Python, C/C++, Java, SQL, JavaScript
 - **Machine Learning**: PyTorch, TensorFlow, scikit-learn
 - **Data Analysis**: Pandas, NumPy, SciPy
-- **Hardware Design**: Raspberry Pi, Arduino, Pipeline Profiling
+- **Hardware Design**: Pipeline Profiling, Raspberry Pi, Arduino
 - **Interactive Device Design**: Sensors, Actuators, IoT, Vehicle Engineering
-- **Computer Vision**: OpenCV, Keras
+- **Computer Vision**: OpenCV, Keras, YOLO
 - **Human-Computer Interaction**: UX/UI Design, Prototyping, Figma
 - **Urban Technology Impact**: Smart Cities, Sustainable Tech, Transportation Engineering
 - **Tools**: Git, Docker, Kubernetes
+- **Frameworks**: Qt, Gymnasium
 
 ## 🏆 Projects
 - **ROAR_Py**: A novel control suite for Reinforcement Learning supporting Gymnasium API.
