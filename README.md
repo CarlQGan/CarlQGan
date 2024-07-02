@@ -7,7 +7,7 @@ I'm Carl, a programmer (mostly) & hardware designer (slightly) who happens to be
 Currently, I am working as a **Quantitative Research Intern** with a passion for technology and a diverse skill set in **Machine Learning**, **Data Analysis**, and **Software Development**. I hold a comprehensive background in **Computer Science**, **Electrical and Computer Engineering**, **Information Science**, **Mechanical Engineering**, and **Business** from my studies.
 
 
-### Autonomous Vehicles | Software Engineering | Algorithms | Machine Learning | Hardware Design | Computer Vision
+### Autonomous Vehicles | Software Engineering | Algorithms | Machine Learning | Hardware Design | Computer Vision | Quantitative Research
 
 ## 📚 Education
 #### 🎓 University of California, Berkeley - B.S. in Electrical Engineering and Computer Sciences
